@@ -6,8 +6,12 @@ Put your name in the Team Section and comment
 
 ## Team
 
-Kaixin Wang
+Kaixin Wang 
+
+Shuyuan Rong
 
 ## Comments
 
-Kaixin is a senior undergraduate in Statistics.
+Kaixin is a senior undergraduate in Statistics.  
+
+Shuyuan is a senior undergraduate in Applied Mathematics and Statistics. 
